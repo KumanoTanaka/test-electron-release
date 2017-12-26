@@ -20,7 +20,7 @@
   },
   "build": {
     "productName": "test-electron-release",
-    "appId": "org.simulatedgreg.electron-vue",
+    "appId": "com.kumano-te.tanaka.test-electron-release",
     "directories": {
       "output": "build"
     },
